@@ -10,7 +10,7 @@ This project is licensed under the **MIT License**.
 See the [LICENSE](https://github.com/Julie789/8086/blob/master/LICENSE) file for more details.
 
 ## Assignments
-* Data Entry Analysis
+* [Data Entry Analysis](https://github.com/Julie789/Data_to_Decision_8086/blob/master/dataEntryAnalysis.md)
 * Data Exploration
 
 ## Instructor
