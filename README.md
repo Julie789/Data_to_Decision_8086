@@ -11,7 +11,7 @@ See the [LICENSE](https://github.com/Julie789/8086/blob/master/LICENSE) file for
 
 ## Assignments
 * [Data Entry Analysis](https://github.com/Julie789/Data_to_Decision_8086/blob/master/dataEntryAnalysis.md)
-* Data Exploration
+* [Data Exploration](https://github.com/Julie789/Data_to_Decision_8086/blob/master/dataExploration.md)
 
 ## Instructor
 Dr. Andrea Wiggins
