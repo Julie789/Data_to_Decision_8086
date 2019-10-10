@@ -1,11 +1,12 @@
 ## HURRICANE ISLAND SCALLOP GROWTH 
 # Data Exploration
 
-### Plot1
+### Plot 1
 
 **File Name:** _Net_5_Bottom_GSI_2019_
 
-**Image:**
+**Plot1**
+![trend line](https://github.com/Julie789/Data_to_Decision_8086/blob/master/images/trend_line.png)
 
 **Code:** 
 <pre>
@@ -22,7 +23,8 @@ In this plot we came to know that the overall temperature for July and August wa
 
 **File Name:** _GSI_Data_Sheet_
 
-**Image:**
+**Plot2**
+![Bar chart](https://github.com/Julie789/Data_to_Decision_8086/blob/master/images/Bar.png)
 
 **Code:** 
 <pre>
@@ -38,7 +40,8 @@ In this plot, the scallops _Gear Type_, _Sex_ and _GSI_ are considered together 
 
 **File Name:** _GSI_Data_Sheet_
 
-**Image:**
+**Plot3**
+![Facet](https://github.com/Julie789/Data_to_Decision_8086/blob/master/images/facet.png)
 
 **Code:** 
 <pre>
@@ -55,7 +58,8 @@ In this plot, the scallops _Gear Type_, _GSI_ and _Total Viscera Weight_ are con
 
 **File Name:** _GSI_Data_Sheet_
 
-**Image:**
+**Plot4**
+![Three var](https://github.com/Julie789/Data_to_Decision_8086/blob/master/images/three_var.png)
 
 **Code:** 
 <pre>
